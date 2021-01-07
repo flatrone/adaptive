@@ -98,7 +98,7 @@ body {
 	}
 }
 
-@media (max-width: 600px) {
+@media (max-width: 320px) {
 	.team__item {
 		width: 100%;
 	}
